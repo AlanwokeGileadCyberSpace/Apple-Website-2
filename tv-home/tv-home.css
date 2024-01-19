@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+.nav-bar{
+    max-width: 110%;
+    height: auto;
+    margin: 0px;
+    padding: 3px;
+    background: black;
+    border-width: 10%;
+    color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.nav-bar li{
+    list-style:none;
+    margin:0px 20px;
+    text-decoration:none;
+    font-size:13px;
+}
+.seconed nav{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:12px;
+    background:#efefef;
+}
+
+.nav-one{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:12px;
+    background:#efefef;
+}
+.hero_tv img{
+width: 1000px;
+
+}
+.h1{
+   font-size: 2rem;
+    font-display: flex;
+    font:  sans-serif;
+    margin: 10px 10px 10px 300px;
+}
+.h4{
+    font-family:  sans-serif;
+    color: darkgrey;
+    margin: 10px 200px;
+}
+.h4{
+    font: size 20px; ;
+}
+.addup{
+    display: flex;
+    width: 400px;
+    height: 400px;
+}
+.body{
+    font-size: 30px;
+    font-style: aerial black;
+}
+.format{
+    font-size: 30px;
+    font-style: aerial black;
+    text-align: center;
+
+    
+    display: flex;
+}
+.vid1{
+    font-size: 40px;
+    font-style: aerial black;
+    background-image: url"../images/video.mp4";
+    width: 500px;
+    background-size: cover;
+
+}
+
+.nav2-sizebox{
+    width: 900px;
+    margin: 0 auto;
+}
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.vid1{
+    font-size: 30px ;
+    font-style: aerial black;
+    justify-content: center;
+    image-rendering: initial;
+    
+}
+
+.img-container{
+    box-sizing: border-box;
+    max-height: 64px;
+    min-height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-container svg{
+    height: 60px;
+    position: relative;
+    top: -8px;
+}
+.img-container img{
+    height: 20px;
+}
+
+.text{
+    width: 170px;
+    height: 55px;
+}
+
